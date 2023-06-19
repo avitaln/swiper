@@ -108,4 +108,4 @@ class WixDefaultCustomElement extends HTMLElement {
     this.appendChild(createTextContainer());
   }
 }
-customElements.define('wix-default-custom-element', WixDefaultCustomElement);
+customElements.define('myswiper', WixDefaultCustomElement);
